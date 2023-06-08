@@ -147,6 +147,30 @@ body {
     margin: 0;
 }
 
+.contact_info.certificates {
+    padding-top: 40px;
+}
+
+.contact_info.certificates ul li {
+    display: block;
+    margin: 10px 0;
+}
+
+.contact_info.certificates li {
+    margin-bottom: 15px;
+}
+
+.certificate_title {
+    color: #fff;
+    font-weight: 500;
+}
+
+.certificate_description {
+    color: #fff;
+    font-weight: 300;
+    margin: 0;
+}
+
 .container .right_side {
     position: relative;
     background: #fff;
