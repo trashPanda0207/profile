@@ -239,3 +239,13 @@ p {
 .link {
     font-weight: bold;
 }
+
+.experience li {
+    list-style: none;
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+
+.experience p {
+    margin-bottom: 10px;
+}
