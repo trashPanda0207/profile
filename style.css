@@ -160,7 +160,7 @@ body {
     margin-bottom: 15px;
 }
 
-.certificate_title {
+.certificate_title a {
     color: #fff;
     font-weight: 500;
 }
