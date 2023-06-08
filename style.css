@@ -123,11 +123,7 @@ body {
 
 .contact_info.education ul li {
     display: block;
-    margin: 10px 0;
-}
-
-.contact_info.education li {
-    margin-bottom: 15px;
+    margin: 20px 0;
 }
 
 .contact_info.education h5 {
@@ -139,12 +135,13 @@ body {
 .contact_info.education h4:nth-child(2) {
     color: #fff;
     font-weight: 500;
+    margin-bottom: 5px;
 }
 
 .contact_info.education h4 {
     color: #fff;
-    font-weight: 300;
-    margin: 0;
+    font-weight: 270;
+    margin-bottom: 5px;
 }
 
 .contact_info.certificates {
@@ -153,11 +150,11 @@ body {
 
 .contact_info.certificates ul li {
     display: block;
-    margin: 10px 0;
+    margin: 20px 0;
 }
 
-.contact_info.certificates li {
-    margin-bottom: 15px;
+.certificate_title {
+    margin-bottom: 5px;
 }
 
 .certificate_title a {
@@ -167,8 +164,8 @@ body {
 
 .certificate_description {
     color: #fff;
-    font-weight: 300;
-    margin: 0;
+    font-weight: 270;
+    margin-bottom: 5px;
 }
 
 .container .right_side {
